@@ -1,7 +1,7 @@
 
 ## Olá!! Eu sou o Mauricio Prado Pereira
 
--  Estudante do Curso Sistema de Informação 6º Período.
+-  Sou estudante do Curso Sistema de Informação 6º Período.
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
