@@ -1,7 +1,7 @@
 
 ## Olá!! Eu sou o Mauricio Prado Pereira
 
--  Sou estudante do Curso Sistema de Informação 7º Período.
+-  Sou estudante do Curso Sistema de Informação 8º Período.
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,6 +24,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img align="center" alt="Linux Mint" src="[https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)" />
   
 
 ## Rede Social
