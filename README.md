@@ -24,7 +24,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img align="center" alt="Linux Mint" src="[https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)" />
+  <img align="center" alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   
 
 ## Rede Social
